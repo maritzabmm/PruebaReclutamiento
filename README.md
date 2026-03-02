@@ -1,2 +1,2 @@
-# PruebaReclutamiento
-Análisis de registro de negocios en Tlaxcala
+# Análisis de Registro de Negocios en Tlaxcala
+Este proyecto forma parte de la Prueba de Reclutamiento y tiene como objetivo analizar la información de negocios registrados en el estado de Tlaxcala. El análisis busca identificar patrones en la distribución geográfica, el tamaño de los negocios y las actividades económicas principales, con el fin de generar información útil para la toma de decisiones estratégicas o estudios comerciales.
